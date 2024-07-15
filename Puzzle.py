@@ -58,7 +58,7 @@ def dfs(initial_puzzle):
 initial_board = [
 [1, 2, 3],
 [4, 5, 6],
-[7, 8, 0]
+[0, 7, 8], 
 ]
 
 initial_puzzle = Puzzle(initial_board)
